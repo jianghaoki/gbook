@@ -1,2 +1,2 @@
 # gbook
-gitbook demo
+作品的简单介绍
